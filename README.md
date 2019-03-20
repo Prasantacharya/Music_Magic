@@ -1,6 +1,6 @@
 # Music Mod
 
-One Paragraph of project description goes here
+A mod based around using musical instruments to cast spells
 
 ## Getting Started
 
