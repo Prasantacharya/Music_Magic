@@ -25,7 +25,7 @@ public class Mandolin extends ItemFood
     public Mandolin() {
 
         super(0, 0, false);
-        this.setMaxStackSize(16);
+        this.setMaxStackSize(1);
         this.setCreativeTab(CreativeTabs.FOOD);
         this.setAlwaysEdible();
     }
