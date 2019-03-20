@@ -8,4 +8,4 @@ A mod based around using musical instruments to cast spells
 
 ## Acknowledgments
 
-* TheGreyGhost (MinecraftByExample) [GitHub](https://github.com/TheGreyGhost)
+* TheGreyGhost - Provided example mod starter code [GitHub](https://github.com/TheGreyGhost)
