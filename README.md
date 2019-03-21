@@ -1,4 +1,4 @@
-# Music Mod
+# Music Magic
 
 A mod based around using musical instruments to cast spells
 
